@@ -19,3 +19,6 @@ version '0.1.0'
 # source_url 'https://github.com/<insert_org_here>/webapplication' if respond_to?(:source_url)
 
 depends 'java', '~> 1.45.0'
+depends 'mysql', '~> 8.0'
+depends 'mysql2_chef_gem', '~> 1.0'
+depends 'apt', '~> 5.0.1'

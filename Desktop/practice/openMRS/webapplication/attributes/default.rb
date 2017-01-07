@@ -6,4 +6,4 @@ default['java']['set_etc_environment'] = true
 default['java']['oracle']['accept_oracle_download_terms'] = true
 
 
-#default['webapp']['install'] = 'tomcat7'
+default['webapp']['install'] = 'tomcat7' 
